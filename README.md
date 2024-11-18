@@ -2,12 +2,9 @@
 
 🌐 *Showcasing innovative software solutions and IT systems design.*
 
-<div align="center">
-    ![Profile](https://img.shields.io/badge/Profile-Brian%20Mayega-blue?style=for-the-badge&logo=github)  
-    ![Location](https://img.shields.io/badge/Location-Kenya-green?style=for-the-badge&logo=world)  
-    ![Status](https://img.shields.io/badge/Current%20Role-ICT%20Intern%20@%20ODPP-blueviolet?style=for-the-badge)  
-</div>
-
+![Profile](https://img.shields.io/badge/Profile-Brian%20Mayega-blue?style=for-the-badge&logo=github)  
+![Location](https://img.shields.io/badge/Location-Kenya-green?style=for-the-badge&logo=world)  
+![Status](https://img.shields.io/badge/Current%20Role-ICT%20Intern%20@%20ODPP-blueviolet?style=for-the-badge)  
 
 ## 🎯 My Tech Journey
 
