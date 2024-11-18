@@ -2,11 +2,27 @@
 
 🌐 *Showcasing innovative software solutions and IT systems design.*  
 
-![PHP](https://img.shields.io/badge/Code-PHP-8892BF?logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white)  
+![Profile](https://img.shields.io/badge/Profile-Brian%20Mayega-blue?style=for-the-badge&logo=github)  
+![Location](https://img.shields.io/badge/Location-Kenya-green?style=for-the-badge&logo=world)  
+![Status](https://img.shields.io/badge/Current%20Role-ICT%20Intern%20@%20ODPP-blueviolet?style=for-the-badge)  
+
+---
+
+## 🎯 **My Tech Journey**  
+
+From my passion for IT in school to professional contributions at ODPP, here's how it unfolded:  
+
+1. 🎓 **Education**:  
+   - Diploma in Information Technology (Ongoing)  
+   - Bachelor’s in Information Technology at the University of the People (Ongoing)  
+
+2. 🧩 **Key Milestones**:  
+   - **2020**: Developed a **COVID-19 Testing Management System**.  
+   - **2023**: Attachment as an **ICT Support Intern at ODPP Milimani**.  
+   - **2024**: Promoted to ICT Intern at **ODPP HQ Nairobi**, actively contributing to systems like the **Memo Management System**.  
+
+3. 🔭 **Vision**:  
+   To blend **tech innovation** and **strategic leadership** as a future COO.  
 
 ---
 
