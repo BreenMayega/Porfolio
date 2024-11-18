@@ -1,142 +1,144 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brian Mayega Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #007bff;
-            color: white;
-        }
-        .badges {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin: 10px 0;
-        }
-        section {
-            margin: 20px 0;
-            padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #007bff;
-        }
-        .project {
-            margin-bottom: 20px;
-        }
-        .tech-stack {
-            display: flex;
-            gap: 10px;
-            margin: 10px 0;
-        }
-        .contact-info {
-            display: flex;
-            justify-content: space-between;
-        }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 0.9em;
-            color: #777;
-        }
-    </style>
-</head>
-<body>
+# 🚀 Brian Mayega Portfolio
 
-<header>
-    <h1>🚀 Brian Mayega Portfolio</h1>
-    <p>🌐 Showcasing innovative software solutions and IT systems design.</p>
-    <div class="badges">
-        <img src="https://img.shields.io/badge/Profile-Brian%20Mayega-blue?style=for-the-badge&logo=github" alt="Profile Badge">
-        <img src="https://img.shields.io/badge/Location-Kenya-green?style=for-the-badge&logo=world" alt="Location Badge">
-        <img src="https://img.shields.io/badge/Current%20Role-ICT%20Intern%20@%20ODPP-blueviolet?style=for-the-badge" alt="Status Badge">
-    </div>
-</header>
+🌐 *Showcasing innovative software solutions and IT systems design.*
 
-<section>
-    <h2>🎯 My Tech Journey</h2>
-    <p>From my passion for IT in school to professional contributions at ODPP, here's how it unfolded:</p>
-    <ul>
-        <li>🎓 <strong>Education</strong>: Diploma in Information Technology, Bachelor’s in Information Technology at the University of the People (Ongoing)</li>
-        <li>🧩 <strong>Key Milestones</strong>: 
-            <ul>
-                <li>2020: Developed a <strong>COVID-19 Testing Management System</strong>.</li>
-                <li>2023: Attachment as an <strong>ICT Support Intern at ODPP Milimani</strong>.</li>
-                <li>2024: Promoted to ICT Intern at <strong>ODPP HQ Nairobi</strong>, actively contributing to systems like the <strong>Memo Management System</strong>.</li>
-            </ul>
-        </li>
-        <li>🔭 <strong>Vision</strong>: To blend <strong>tech innovation</strong> and <strong>strategic leadership</strong> as a future COO.</li>
-    </ul>
-</section>
+<div align="center">
+    ![Profile](https://img.shields.io/badge/Profile-Brian%20Mayega-blue?style=for-the-badge&logo=github)  
+    ![Location](https://img.shields.io/badge/Location-Kenya-green?style=for-the-badge&logo=world)  
+    ![Status](https://img.shields.io/badge/Current%20Role-ICT%20Intern%20@%20ODPP-blueviolet?style=for-the-badge)  
+</div>
 
-<section>
-    <h2>🌟 Featured Projects</h2>
+---
 
-    <div class="project">
-        <h3>🛤 Online Railway Reservation System (ORRS)</h3>
-        <p><strong>Description</strong>: A system designed to simplify railway seat reservations with integrated M-Pesa payment processing.</p>
-        <div class="tech-stack">
-            <img src="https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white" alt="PHP">
-            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-            <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-        </div>
-        <p><strong>Key Features</strong>: 🔒 Secure seat booking system, 🪑 Real-time seat availability updates, 💳 Integrated M-Pesa payment gateway.</p>
-        <a href="./ORRS">🔗 Explore Project</a>
-    </div>
+## 🎯 My Tech Journey
 
-    <!-- Repeat similar structure for other projects -->
+From my passion for IT in school to professional contributions at ODPP, here's how it unfolded:
 
-</section>
+1. **🎓 Education**:  
+   - Diploma in Information Technology  
+   - Bachelor’s in Information Technology at the University of the People (Ongoing)  
 
-<section>
-    <h2>🔧 Tools & Technologies</h2>
-    <table>
-        <tr><th>Languages</th><td>PHP, JavaScript, HTML, CSS</td></tr>
-        <tr><th>Frameworks</th><td>Bootstrap</td></tr>
-        <tr><th>Databases</th><td>MySQL</td></tr>
-        <tr><th>Payment Integration</th><td>M-Pesa STK Push</td></tr>
-    </table>
-</section>
+2. **🧩 Key Milestones**:  
+   - **2020**: Developed a **COVID-19 Testing Management System**.  
+   - **2023**: Attachment as an **ICT Support Intern at ODPP Milimani**.  
+   - **2024**: Promoted to ICT Intern at **ODPP HQ Nairobi**, actively contributing to systems like the **Memo Management System**.  
 
-<section>
-    <h2>👨‍💻 About Me</h2>
-    <p>Hi! I'm <strong>Brian Mayega</strong>, a tech enthusiast passionate about <strong>practical software solutions</strong>. I'm currently pursuing a <strong>Bachelor's in Information Technology</strong> at the <strong>University of the People</strong>.</p>
-    <p>💼 Aspiring COO and Product Manager!</p>
-</section>
+3. **🔭 Vision**:  
+   To blend **tech innovation** and **strategic leadership** as a future COO.  
 
-<section>
-    <h2>📫 Contact</h2>
-    <div class="contact-info">
-        <div>
-            <p>📧 <strong>Email</strong>: <a href="mailto:brianmayega4345@gmail.com">brianmayega4345@gmail.com</a></p>
-            <p>📱 <strong>Phone</strong>: +254 711 106 719</p>
-        </div>
-        <div>
-            <i class="fab fa-linkedin"></i>
-            <i class="fab fa-github"></i>
-            <i class="fab fa-twitter"></i>
-        </div>
-    </div>
-</section>
+---
 
-<footer>
-    <p>📜 This repository is licensed under the MIT License.</p>
-</footer>
+## 🌟 Featured Projects
 
-</body>
-</html>
+### 🛤 1. Online Railway Reservation System (ORRS)
+**Description**: A system designed to simplify railway seat reservations with integrated M-Pesa payment processing.  
+
+🛠️ **Tech Stack**:  
+![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+📌 **Key Features**:  
+- 🔒 Secure seat booking system.  
+- 🪑 Real-time seat availability updates.  
+- 💳 Integrated M-Pesa payment gateway.  
+
+🔗 **[Explore Project](./ORRS)**  
+
+---
+
+### 📝 2. Memo Management System (ODPP)
+**Description**: A responsive system for creating and organizing memos with modern UI components.  
+
+🛠️ **Tech Stack**:  
+![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+
+📌 **Key Features**:  
+- ✍️ Create and track memos with ease.  
+- 🎨 Uses Material Icons and SVG illustrations.  
+- ⚡ Lightweight and fast-loading design.  
+
+🔗 **[Explore Project](./MemoManagementSystem)**  
+
+---
+
+### 💵 3. Billing System
+**Description**: A billing management platform for generating invoices and managing customer payments.  
+
+🛠️ **Tech Stack**:  
+![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+📌 **Key Features**:  
+- 🧾 Dynamic invoice generation.  
+- 📂 Customer profile and payment record management.  
+- 📊 Dashboard for tracking balances.  
+
+🔗 **[Explore Project](./BillingSystem)**  
+
+---
+
+### 🏥 4. Mathare Healthcare Booking System
+**Description**: Streamlining healthcare appointment bookings and patient record management.  
+
+🛠️ **Tech Stack**:  
+![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+📌 **Key Features**:  
+- 🗓️ Appointment scheduling.  
+- 🔒 Secure patient record storage.  
+- 🔔 Automated user notifications.  
+
+🔗 **[Explore Project](./MathareHealthcare)**  
+
+---
+
+### 🚗 5. Tattiana Motors Management System
+**Description**: A vehicle sales platform with search and sales management capabilities.  
+
+🛠️ **Tech Stack**:  
+![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+📌 **Key Features**:  
+- 🚙 Vehicle showcase with search functionality.  
+- 💼 Sales tracking tools.  
+- 🔍 Filterable inventory.  
+
+🔗 **[Explore Project](./TattianaMotors)**  
+
+---
+
+## 🔧 Tools & Technologies  
+
+| **Languages** | **Frameworks** | **Databases** | **Payment Integration** |  
+|---------------|----------------|----------------|--------------------------|  
+| PHP, JavaScript, HTML, CSS | Bootstrap | MySQL | M-Pesa STK Push |  
+
+---
+
+## 👨‍💻 About Me  
+
+Hi! I'm **Brian Mayega**, a tech enthusiast passionate about **practical software solutions**. I'm currently pursuing a **Bachelor's in Information Technology** at the **University of the People**.  
+
+💼 *Aspiring COO and Product Manager!*  
+
+---
+
+## 📫 Contact  
+
+- 📧 **Email**: [brianmayega4345@gmail.com](mailto:brianmayega4345@gmail.com)  
+- 📱 **Phone**: +254 711 106 719  
+
+Feel free to connect and collaborate!  
+
+---  
+
+### 📜 License  
+This repository is licensed under the MIT License.
