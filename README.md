@@ -13,7 +13,7 @@
 From my passion for IT in school to professional contributions at ODPP, here's how it unfolded:  
 
 1. 🎓 **Education**:  
-   - Diploma in Information Technology (Ongoing)  
+   - Diploma in Information Technology  
    - Bachelor’s in Information Technology at the University of the People (Ongoing)  
 
 2. 🧩 **Key Milestones**:  
@@ -131,8 +131,8 @@ Hi! I'm **Brian Mayega**, a tech enthusiast passionate about **practical softwar
 
 ## 📫 **Contact**  
 
-- 📧 **Email**: [TATTIANAMOTORS@GMAIL.com](mailto:TATTIANAMOTORS@GMAIL.com)  
-- 📱 **Phone**: +254 759 863 937  
+- 📧 **Email**: [brianmayega4345@gmail.com](mailto:brianmayega4345@gmail.com)  
+- 📱 **Phone**: +254 711 106 719 
 
 Feel free to connect and collaborate!  
 
@@ -140,10 +140,3 @@ Feel free to connect and collaborate!
 
 ### 📜 **License**  
 This repository is licensed under the MIT License.  
-
----
-
-### ✅ What’s next?  
-- [ ] Add more case studies with screenshots.  
-- [ ] Create live demos for the projects.  
-- [ ] Enhance documentation with flowcharts and UML diagrams.  
