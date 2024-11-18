@@ -8,7 +8,6 @@
     ![Status](https://img.shields.io/badge/Current%20Role-ICT%20Intern%20@%20ODPP-blueviolet?style=for-the-badge)  
 </div>
 
----
 
 ## 🎯 My Tech Journey
 
